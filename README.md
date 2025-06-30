@@ -4,13 +4,9 @@
 
 🌱 I’m currently learning advanced NLP techniques and cloud-based AI deployment.
 
-💞️ I’m looking to collaborate on projects involving AI-powered data insights, Power BI dashboards, and real-time analytics.
-
 📫 How to reach me: https://www.linkedin.com/in/chadrickclarke/
 
-😄 Pronouns: Him
-
-⚡ Fun fact: I originally studied chemical engineering, which gives me a unique approach to problem-solving in data science!
+Fun fact: I originally studied chemical engineering, which gives me a unique approach to problem-solving in data science!
 
 <!---
 Clarkey33/Clarkey33 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
